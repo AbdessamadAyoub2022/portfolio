@@ -2,7 +2,7 @@
 A clean and simple portfolio template built using React, if want a template built with HTML, CSS and JS then check out
 
 ## Setup
-git clone https://github.com/Aoayoub/Portfolio
+git clone https://github.com/AbdessamadAyoub2022/portfolio/
 cd Portfolio
 ## if you have openssl error :
 linux:
